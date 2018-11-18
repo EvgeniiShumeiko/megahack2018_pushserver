@@ -2,8 +2,8 @@
 [DevRock Team] Push server for some cool platform
 
 For start:
-`npm i'
-'node index.js'
+`npm i`
+`node index.js`
 
 
 All cool parts:
